@@ -1,6 +1,6 @@
 # terraform-random-provider
 
-# Why it was created
+Why it was created?
 When working with multiple resources configurations it is easier a tool to create randomness.
 
 # Theory
