@@ -31,7 +31,7 @@ Terraform will notice the change by applying a diff.
 
 # Sample output
 ```
-terraform apply -auto-approve
+$ terraform apply -auto-approve
 
 Terraform used the selected providers to generate the following execution plan. Resource
 actions are indicated with the following symbols:
