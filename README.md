@@ -52,13 +52,13 @@ random_pet.my-pet: Creating...
 random_pet.my-pet: Creation complete after 0s [id=Mr.mudfish]
 
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
-[ion:~/Documents/ … m-proj/output/tmp3] $ 
+$ 
 ```
 
 # Sample putput on resource change
 _argument prefix was changed from "Mr" to "Fluffy"
 ```
-terraform apply -auto-approve
+$ terraform apply -auto-approve
 random_pet.my-pet: Refreshing state... [id=Mr.mudfish]
 
 Terraform used the selected providers to generate the following execution plan. Resource
@@ -81,7 +81,7 @@ random_pet.my-pet: Creating...
 random_pet.my-pet: Creation complete after 0s [id=Fluffy.polliwog]
 
 Apply complete! Resources: 1 added, 0 changed, 1 destroyed.
-[ion:~/Documents/ … m-proj/output/tmp3] $ 
+$ 
 ```
 
 
