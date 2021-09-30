@@ -56,7 +56,7 @@ $
 ```
 
 # Sample putput on resource change
-_argument prefix was changed from "Mr" to "Fluffy"
+_argument prefix was changed from "Mr" to "Fluffy"_
 ```
 $ terraform apply -auto-approve
 random_pet.my-pet: Refreshing state... [id=Mr.mudfish]
